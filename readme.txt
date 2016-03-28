@@ -3,3 +3,5 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 do't know English ???
+
+second day do it!
